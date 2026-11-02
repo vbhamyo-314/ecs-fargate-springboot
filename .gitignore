@@ -1,2 +1,4 @@
 1-infrastructure/.terraform/
 .terraform/
+2-platform/.terraform/
+3-application/.terraform/
