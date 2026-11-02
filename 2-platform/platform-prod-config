@@ -1,0 +1,3 @@
+key="layer1/platform.tfstate"
+bucket="ecs-fargate-terraform-remote-state-v1"
+region="us-east-1"
